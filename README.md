@@ -10,7 +10,7 @@ This project's mission is making Etherum and DeFi a little more accesible to new
 - [ ] 1. How Does the Ethereum Network Work?
 - [ ] 2. The Problem of Gas
 - [ ] 3. Why Do Gas Prices Fluctuate?
-- [ ] 4. UBIcoin
+- [ ] 4. What's UBIcoin?
 - [ ] 5. Proof of Humanity
 - [ ] 6. How UBIcoin Works
 - [ ] 7. How to Receive UBIcoins
