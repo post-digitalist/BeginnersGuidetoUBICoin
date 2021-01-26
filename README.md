@@ -1,4 +1,4 @@
-# A Begginer’s Guide to how UBIcoin makes Ethereum transactions accesible for everyone.
+# A Beginner’s Guide to how UBIcoin makes Ethereum transactions accesible for everyone.
 Repository for the beginner's guide to UBI coin. Private until release.
 
 
