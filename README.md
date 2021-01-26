@@ -3,7 +3,7 @@ Repository for the beginner's guide to UBI coin. Private until release.
 
 
 ## Mission
-This project's mission is making Etherum and DeFi a little more accesible to newbies by explaining the problem of gas and how UBIcoin helps solve it. This guide will be accompanied by a social media campaign through DemocracyEarth's Twitter account.
+This project's mission is to make Etherum and DeFi a little more accesible to newbies by explaining the problem of gas and how UBIcoin helps solve it. This guide will be accompanied by a social media campaign through DemocracyEarth's Twitter account.
 
 ## Index
 - [ ] 0. What's Ethereum?
