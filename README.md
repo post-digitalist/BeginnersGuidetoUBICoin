@@ -9,11 +9,10 @@ This project's mission is to make Etherum and DeFi a little more accesible to ne
 - [ ] 0. What's Ethereum?
 - [ ] 1. How Does the Ethereum Network Work?
 - [ ] 2. The Problem of Gas
-- [ ] 3. Why Do Gas Prices Fluctuate?
-- [ ] 4. What's UBIcoin?
-- [ ] 5. Proof of Humanity
-- [ ] 6. How UBIcoin Works
-- [ ] 7. How to Receive UBIcoins
+- [ ] 3. What's UBIcoin?
+- [ ] 4. Proof of Humanity
+- [ ] 5. How UBIcoin Works
+- [ ] 6. How to Receive UBIcoins
 
 -------
 
