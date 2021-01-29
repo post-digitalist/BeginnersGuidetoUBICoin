@@ -14,6 +14,8 @@ This project's mission is to make Etherum and DeFi a little more accesible to ne
 - [ ] 5. How UBIcoin Works
 - [ ] 6. How to Receive UBIcoins
 
--------
+- [ ] Glossary
 
+
+-------
 *For project updates, check out the "Projects" tab* 
