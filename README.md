@@ -8,11 +8,10 @@ This project's mission is to make Etherum and DeFi a little more accesible to ne
 ## Index
 - [ ] 0. What's Ethereum?
 - [ ] 1. How Does the Ethereum Network Work?
-- [ ] 2. The Problem of Gas
+- [X] 2. The Problem of Gas
 - [ ] 3. What's UBIcoin?
 - [ ] 4. Proof of Humanity
-- [ ] 5. How UBIcoin Works
-- [ ] 6. How to Receive UBIcoins
+- [ ] 5. How to Receive UBIcoins
 
 - [ ] Glossary
 
