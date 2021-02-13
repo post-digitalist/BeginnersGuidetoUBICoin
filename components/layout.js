@@ -10,7 +10,7 @@ const Layout = ({ children, home }) => {
         <title>UBIcoin</title>
       </Head>
       <header>
-        <img src="UBIlogo.png" class="logo" />
+        <img src="UBIlogo.png" className="logo" />
       </header>
       <main>{children}</main>
       <Footer />

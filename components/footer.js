@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const Footer = () => {
   return (
     <footer>
-      <div class="vertical-flex">
+      <div className="vertical-flex">
         <p>UBIcoin</p>
         <ul>
           <li>
