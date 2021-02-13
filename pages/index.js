@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { getSortedContentData } from "../lib/data";
 import Layout from "../components/layout";
+import Arrow from "../components/arrow";
 
 export default function Home() {
   return (
@@ -11,9 +12,7 @@ export default function Home() {
           Accessible for Everyone
         </h1>
       </section>
-      <section className="arrow">
-        <img src="arrow.svg" />
-      </section>
+      <Arrow />
     </Layout>
   );
 }
