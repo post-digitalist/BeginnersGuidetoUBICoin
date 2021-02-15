@@ -15,6 +15,5 @@ This project's mission is to make Etherum and DeFi a little more accesible to ne
 
 - [ ] Glossary
 
-
 -------
 *For project updates, check out the "Projects" tab* 
