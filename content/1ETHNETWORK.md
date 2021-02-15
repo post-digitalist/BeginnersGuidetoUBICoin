@@ -7,4 +7,4 @@ There are two types of accounts integrating the network: User Accounts and Smart
 Smart Contracts consist of code that can be executed by calling one of its conditions. Smart contracts store a predefined amount of ETH that they can send.
 
 ## Further reading
-[Learn more about the technical aspects of Ethereum](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
+- [Learn more about the technical aspects of Ethereum](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
