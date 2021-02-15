@@ -1,3 +1,8 @@
+---
+title: How Does the Ethereum Network Work?
+id: ethereum-network
+---
+
 # How Does the Ethereum Network Work?
 
 Ether is generated through the Proof-of-Work system, as a reward for miners for adding new blocks to the network. This works as an incentive for miners to validate transactions (named GAS), which are "written" inside the blocks. Whenever a block is generated, the information is shared between all peer members of the network, generating consensus about the validness of a transaction. 
