@@ -1,4 +1,9 @@
-# What Is UBI Coin?
+---
+title: What's UBI Coin?
+id: ubi-coin
+---
+
+# What's UBI Coin?
 
 UBI Coin is an Ethereum-based prototype for a Universal Basic Income system, fruit of a joint effort by [the Democracy Earth Foundation](http://democracy.earth) and [Kleros](http://kleros.io). 
 
