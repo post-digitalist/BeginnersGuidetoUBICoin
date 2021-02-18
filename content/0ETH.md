@@ -1,3 +1,8 @@
+---
+title: What's Ethereum? 
+id: ethereum 
+---
+
 # What's Ethereum?
 
 Often seen as "the second" blockchain network, or "Bitcoin's sibling", Ethereum is a decentralized and fully programable platform. 
@@ -9,5 +14,5 @@ The environment where Smart Contracts are executed is the Ethereum Virtual Machi
 Overall, the Ethereum architecture allows for a more political approach to crypto and finance. It encourages users to implement lending protocols, investment mechanisms and governance.
 
 ## Further Reading
-[Learn more about the Ethereum project](https://ethereum.org/en/)
-[Learn more about Smart Contracts](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract)
+- [Learn more about the Ethereum project](https://ethereum.org/en/)
+- [Learn more about Smart Contracts](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract)
