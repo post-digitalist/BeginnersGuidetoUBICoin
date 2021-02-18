@@ -1,14 +1,19 @@
 import Layout from "../components/layout";
-import { getContentData, getNextSlide, getAllContentIds } from "../lib/data";
+import {
+  getContentData,
+  getNextSlide,
+  getAllContentIds,
+  getSortedContentData,
+} from "../lib/data";
 import Head from "next/head";
 import Arrow from "../components/arrow";
 
-export default function Slide({ currentId, nextId, slideData }) {
+export default function Slide({ currentId, nextId, slideData, slideLinks }) {
   const {
     params: { id: nextSlideId },
   } = nextId;
   return (
-    <Layout>
+    <Layout footerLinks={slideLinks}>
       <Head>
         <title>{slideData.title} | UBIcoin</title>
       </Head>
@@ -29,7 +34,7 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({ params }) => {
-  console.log(params);
+  const slides = getSortedContentData();
   const slideData = await getContentData(params.id);
   const currentId = params.id;
   const nextId = await getNextSlide(params.id);
@@ -38,6 +43,7 @@ export const getStaticProps = async ({ params }) => {
       currentId,
       slideData,
       nextId,
+      slideLinks: slides.map(({ title, id }) => ({ id, title })),
     },
   };
 };

@@ -20,11 +20,12 @@ const Footer = ({ links }) => {
         </ul>
       </div>
       <nav data-aos="zoom-in-left">
-        {links.map(({ title, id }, i) => (
-          <li key={i}>
-            <a href={`/${id}`}>{title}</a>
-          </li>
-        ))}
+        {links &&
+          links.map(({ title, id }, i) => (
+            <li key={i}>
+              <a href={`/${id}`}>{title}</a>
+            </li>
+          ))}
       </nav>
     </footer>
   );
