@@ -9,15 +9,10 @@ export default function Slide({ currentId, nextId, slideData }) {
   } = nextId;
   return (
     <Layout>
+      <Head>
+        <title>{slideData.title} | UBIcoin</title>
+      </Head>
       <article className="single-article">
-        <h1>{slideData.title}</h1>
-        {slideData.cover && (
-          <img
-            src={slideData.cover}
-            alt={slideData.coverAlt || "cover image"}
-            class="xxl-size-image"
-          />
-        )}
         <div dangerouslySetInnerHTML={{ __html: slideData.contentHtml }}></div>
         {nextSlideId !== currentId && <Arrow href={`/${nextSlideId}`} />}
       </article>
