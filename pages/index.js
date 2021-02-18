@@ -20,9 +20,9 @@ export default function Home({ slide, slideLinks }) {
 
 export async function getStaticProps() {
   const slides = getSortedContentData();
-  console.log(slides);
   return {
     props: {
+      nextSlide: { params: { id: slides[0].id } },
       slide: slides[0],
       slideLinks: slides.map(({ title, id }) => ({ id, title })),
     },
