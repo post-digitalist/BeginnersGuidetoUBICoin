@@ -3,10 +3,10 @@ import { getSortedContentData } from "../lib/data";
 import Layout from "../components/layout";
 import Arrow from "../components/arrow";
 
-export default function Home({ slide }) {
+export default function Home({ slide, slideLinks }) {
   const { id } = slide;
   return (
-    <Layout>
+    <Layout footerLinks={slideLinks}>
       <section className="content">
         <h1>
           A Beginner's Guide to How UBIcoin Makes Ethereum Transactions
@@ -19,11 +19,12 @@ export default function Home({ slide }) {
 }
 
 export async function getStaticProps() {
-  const a = getSortedContentData();
-  console.log(a);
+  const slides = getSortedContentData();
+  console.log(slides);
   return {
     props: {
-      slide: a[0],
+      slide: slides[0],
+      slideLinks: slides.map(({ title, id }) => ({ id, title })),
     },
   };
 }

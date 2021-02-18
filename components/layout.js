@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Footer from "./footer";
 
-const Layout = ({ children, home }) => {
+const Layout = ({ children, home, footerLinks }) => {
   return (
     <div>
       <Head>
@@ -13,7 +13,7 @@ const Layout = ({ children, home }) => {
         <img src="UBIlogo.png" className="logo" />
       </header>
       <main>{children}</main>
-      <Footer />
+      <Footer links={footerLinks} />
     </div>
   );
 };
