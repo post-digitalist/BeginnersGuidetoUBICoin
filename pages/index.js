@@ -3,7 +3,8 @@ import { getSortedContentData } from "../lib/data";
 import Layout from "../components/layout";
 import Arrow from "../components/arrow";
 
-export default function Home() {
+export default function Home({ slide }) {
+  const { id } = slide;
   return (
     <Layout>
       <section className="content">
@@ -12,7 +13,7 @@ export default function Home() {
           Accessible for Everyone
         </h1>
       </section>
-      <Arrow />
+      <Arrow href={`/${id}`} />
     </Layout>
   );
 }
@@ -22,7 +23,7 @@ export async function getStaticProps() {
   console.log(a);
   return {
     props: {
-      h: 1,
+      slide: a[0],
     },
   };
 }

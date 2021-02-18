@@ -1,5 +1,5 @@
 import Layout from "../components/layout";
-import { getAllContentIds, getContentData, getNextSlide } from "../lib/data";
+import { getContentData, getNextSlide, getAllContentIds } from "../lib/data";
 import Head from "next/head";
 import Arrow from "../components/arrow";
 
@@ -34,6 +34,7 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({ params }) => {
+  console.log(params);
   const slideData = await getContentData(params.id);
   const currentId = params.id;
   const nextId = await getNextSlide(params.id);
