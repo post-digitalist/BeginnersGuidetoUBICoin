@@ -6,7 +6,7 @@ import Arrow from "../components/arrow";
 export default function Home({ slide, slideLinks }) {
   const { id } = slide;
   return (
-    <Layout footerLinks={slideLinks}>
+    <Layout home footerLinks={slideLinks}>
       <section className="content">
         <h1>
           A Beginner's Guide to How UBIcoin Makes Ethereum Transactions

@@ -10,7 +10,13 @@ const Layout = ({ children, home, footerLinks }) => {
         <title>UBIcoin</title>
       </Head>
       <header>
-        <img src="UBIlogo.png" className="logo" />
+        {!home ? (
+          <a href="/">
+            <img src="UBIlogo.png" className="logo" />
+          </a>
+        ) : (
+          <img src="UBIlogo.png" className="logo" />
+        )}
       </header>
       <main>{children}</main>
       <Footer links={footerLinks} />
