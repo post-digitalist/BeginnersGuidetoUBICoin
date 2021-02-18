@@ -10,12 +10,12 @@ const Footer = ({ links }) => {
         <p>UBIcoin</p>
         <ul>
           {socialMedia.map(({ display, href }, i) => (
-            <>
-              <li>
+            <React.Fragment key={i}>
+              <li key={i}>
                 <a href={href}>{display}</a>
               </li>
               {i < socialMedia.length - 1 && " / "}
-            </>
+            </React.Fragment>
           ))}
         </ul>
       </div>
