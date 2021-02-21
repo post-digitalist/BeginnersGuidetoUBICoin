@@ -3,10 +3,10 @@ const Arrow = ({ href }) => {
     <section className="arrow">
       {href ? (
         <a href={href}>
-          <img src="arrow.svg" />
+          <img src="arrow.png" />
         </a>
       ) : (
-        <img src="arrow.svg" />
+        <img src="arrow.png" />
       )}
     </section>
   );
