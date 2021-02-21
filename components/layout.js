@@ -18,7 +18,9 @@ const Layout = ({ children, home, footerLinks }) => {
           <img src="UBIlogo.png" className="logo" />
         )}
       </header>
-      <main>{children}</main>
+      <main>
+        <div class="content">
+  {children}</div></main>
       <Footer links={footerLinks} />
     </div>
   );
