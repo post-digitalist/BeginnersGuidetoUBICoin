@@ -19,7 +19,7 @@ const Layout = ({ children, home, footerLinks }) => {
         )}
       </header>
       <main>
-        <div class="content">
+        <div class="content" data-aos="fade-left">
   {children}</div></main>
       <Footer links={footerLinks} />
     </div>
