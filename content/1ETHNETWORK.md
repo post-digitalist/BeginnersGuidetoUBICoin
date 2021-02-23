@@ -1,5 +1,5 @@
 ---
-title: How Does the Ethereum Network Work?
+title: How Does the ETH Network Work?
 id: ethereum-network
 ---
 

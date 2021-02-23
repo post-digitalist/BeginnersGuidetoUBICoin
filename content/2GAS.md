@@ -11,4 +11,4 @@ In theory, Gas should be proportional to the amount of computational resources s
 
 With the "gentrification" of Ethereum, came a high barrier of entry for both aspiring new investors and developers wanting to build in the DApp ecosystem, hampering the democratic spirit of the blockchain. 
 
-This is the problem that UBIcoin aspires to solve.
+This is the problem that $UBI aspires to solve.
