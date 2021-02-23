@@ -1,4 +1,4 @@
-![UBIlogo](public/UBIlogo2.png)
+![UBIlogo](public/UBIlogo2.png =150px)
 
 # A Beginner’s Guide to how $UBI makes Ethereum transactions accesible for everyone.
 Repository for the beginner's guide to $UBI (UBIcoin). Private until release.
