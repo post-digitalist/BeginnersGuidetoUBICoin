@@ -1,6 +1,7 @@
 <p align="Center">
 <img src="public/UBIlogo2.png"  width="150">
 </p>
+  <p align="center"><i>The price of GAS is too damn high</i></p>
 
 # A Beginner’s Guide to how $UBI makes Ethereum transactions accesible for everyone.
 Repository for the beginner's guide to $UBI (UBIcoin). Private until release.
