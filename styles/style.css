@@ -22,30 +22,9 @@ html{
 }
 body{
     font-family: 'Inter', sans-serif;
-    background: linear-gradient(178deg, #00d9a1, #f3102c);
-    background-size: 400% 400%;
-    -webkit-animation: BGGradient 19s ease infinite;
-    -moz-animation: BGGradient 19s ease infinite;
-    animation: BGGradient 19s ease infinite;
+    background: #f3102c;
 }
 
-/* BACKGROUND GRADIENT ANIMATION */
-
-@-webkit-keyframes BGGradient {
-    0%{background-position:47% 0%}
-    50%{background-position:54% 100%}
-    100%{background-position:47% 0%}
-}
-@-moz-keyframes BGGradient {
-    0%{background-position:47% 0%}
-    50%{background-position:54% 100%}
-    100%{background-position:47% 0%}
-}
-@keyframes BGGradient {
-    0%{background-position:47% 0%}
-    50%{background-position:54% 100%}
-    100%{background-position:47% 0%}
-}
 
 /* HEADER + LOGO */
 header{
@@ -55,11 +34,11 @@ header{
     background-color: #00D9A1;
 }
 .logo{
-    height: 45px;
+    height: 40px;
     width: auto;
 }
 main, header{
-    border-bottom: 2px solid #00D9A1;
+    border-bottom: 2px solid #1a1a1a;
 }
 
 /* MAIN & CHILDREN */
