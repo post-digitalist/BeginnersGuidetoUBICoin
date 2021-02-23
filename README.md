@@ -17,3 +17,16 @@ This project's mission is to make Etherum and DeFi a little more accesible to ne
 
 -------
 *For project updates, check out the "Projects" tab* 
+
+## How to run
+
+* Clone this repo
+* `yarn install` to install dependencies
+* Go to https://data.defipulse.com/ and get an API key for ethgasstation
+* Create a `.env` file and put it under the `GAS_API_KEY` key. Like this
+ 
+```env
+GAS_API_KEY=your-key-here
+```
+
+* run with `yarn dev`
