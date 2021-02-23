@@ -33,13 +33,14 @@ function MyApp({ Component, pageProps }) {
         default:
       }
     };
-
     window.addEventListener("keydown", keyboardInteraction);
     return () => {
       window.removeEventListener("keydown", keyboardInteraction);
     };
   });
+  
   return <Component {...pageProps} />;
 }
 
 export default MyApp;
+

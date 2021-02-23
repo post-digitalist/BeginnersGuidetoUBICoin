@@ -12,9 +12,9 @@ export default function Home({ slide, slideLinks }) {
     <div>
       {showSplash && <Splash />}
       <Layout home footerLinks={slideLinks}>
-        <section className="content">
+        <section className="content wide-content">
           <h1>
-            A Beginner's Guide to How UBIcoin Makes Ethereum Transactions
+            A Beginner's Guide to How $UBI Makes Ethereum Transactions
             Accessible for Everyone
           </h1>
         </section>

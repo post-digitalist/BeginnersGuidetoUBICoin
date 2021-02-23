@@ -6,7 +6,7 @@ const Footer = ({ links }) => {
 
   return (
     <footer>
-      <div className="vertical-flex">
+      <div className="footer-vertical-flex">
         <p>UBIcoin</p>
         <ul>
           {socialMedia.map(({ display, href }, i) => (
@@ -19,7 +19,7 @@ const Footer = ({ links }) => {
           ))}
         </ul>
       </div>
-      <nav data-aos="zoom-in-left">
+      <nav>
         {links &&
           links.map(({ title, id }, i) => (
             <li key={i}>

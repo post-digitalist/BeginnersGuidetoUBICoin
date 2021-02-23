@@ -1,11 +1,11 @@
 ---
-title: What's UBI Coin?
+title: What's $UBI
 id: ubi-coin
 ---
 
-# What's UBI Coin?
+# What's $UBI?
 
-UBI Coin is an Ethereum-based prototype for a Universal Basic Income system, fruit of a joint effort by [the Democracy Earth Foundation](http://democracy.earth) and [Kleros](http://kleros.io). 
+$UBI is an Ethereum-based prototype for a Universal Basic Income system, fruit of a joint effort by [the Democracy Earth Foundation](http://democracy.earth) and [Kleros](http://kleros.io). 
 
 Its primordial goal is to develop a sustainable, decentralized model of non-exploitable digital identities. By doing so, the project addresses problems that hamper the inclussion of new users, thus paving the way to a more democratic blockchain.
 
@@ -18,5 +18,5 @@ The UBI Coin project consists of two ERC-20 tokens:
 - UBI Coin, which which acts like money (transferrable, storable, expendable)	
 - VOTE token, which acts like a voter ID and is given to individuals who verify their identity	
 
-UBI Coin has a stable minting rate per second, using UNIXtime as the standard clock, but the rate can be changed democratically through VOTE. The token also has a "Burn" function to balance the UBICoin innate inflationary tendency. To avoid plutocratic tendences in the token governance, a quadratic voting system.	
+UBI Coin has a stable minting rate per second, using UNIXtime as the standard clock, but the rate can be changed democratically through VOTE. The token also has a "Burn" function to balance $UBI's innate inflationary tendency. To avoid plutocratic tendences in the token governance, a quadratic voting system.	
 The tokens are given to every registered user through the Proof of Humanity protocol.
