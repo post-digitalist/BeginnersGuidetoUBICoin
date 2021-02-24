@@ -7,11 +7,13 @@ const baseStyles = {
   position: "absolute",
   width: "100%",
   height: "100%",
+  color: "white",
   zIndex: 2,
   display: "flex",
   background: `linear-gradient(178deg,${upPrice}, ${downPrice})`,
   justifyContent: "center",
   alignItems: "center",
+  textAlign: "center",
 };
 const Splash = () => {
   const [ethPrice, setEthPrice] = useState();
@@ -43,8 +45,8 @@ api/ethgasAPI.json?api-key=${process.env.GAS_API_KEY}`)
       }}
     >
       <h1>
-        A ${amount} transaction costs $
-        {!isNaN(gasPrice) ? `${gasPrice}` : <i>this much</i>}
+         A ${amount} transaction in ETH <br/> currently costs $ 
+        {!isNaN(gasPrice) ? `${gasPrice}` : <i>gas price</i>}
       </h1>
     </div>
   );
