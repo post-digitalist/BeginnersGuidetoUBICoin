@@ -20,4 +20,10 @@ The UBI Coin project consists of two ERC-20 tokens emmited by a DAO:
 
 UBI Coin has a stable minting rate per second, using UNIXtime as the standard clock, but the rate can be changed democratically through VOTE in the UBI DAO interface. The token also has a "Burn" function to balance $UBI's innate inflationary tendency. To avoid plutocratic tendences in the token governance, a quadratic voting system will be used. The tokens are given to every verified user through the Proof of Humanity protocol.
 
-The "1 person 1 vote" dream has become real in the Blockchain.	
+The "1 person 1 vote" dream has become real in the Blockchain.
+
+## Further Reading
+
+About governance: https://www.dropbox.com/s/f5zzofunx186dcu/The%20Social%20Smart%20Contract.pdf?dl=0
+
+About identity: https://arxiv.org/ftp/arxiv/papers/2008/2008.05300.pdf
