@@ -44,7 +44,8 @@ GAS_API_KEY=your-key-here
 * Click on `add file > create new file`
 * Create a file with the tilte (NUMBER)(SOMETHING DESCRIPTIVE).md. For instance, if the last available file in the folder is titled 5HOWTOOBTAINUBI.md, title your document something like 6LIQUIDITYPOOLS.md 
 * Create the front matter with the following format:
- ```---
+ ```
+ ---
  title:
  id:
  ---
