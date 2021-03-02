@@ -5,6 +5,8 @@ id: ubi-coin
 
 # What's $UBI?
 
+<img src="UBI.svg" class="feat-img">
+
 $UBI is an Ethereum-based prototype for a Universal Basic Income system, fruit of a joint effort by [the Democracy Earth Foundation](http://democracy.earth) and [Kleros](http://kleros.io). 
 
 Its primordial goal is to develop a sustainable, decentralized model of non-exploitable digital identities. By doing so, the project addresses problems that hamper the inclussion of new users, thus paving the way to a more democratic blockchain.

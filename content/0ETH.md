@@ -5,6 +5,8 @@ id: ethereum
 
 # What's Ethereum?
 
+<img src="ethereum.svg" class="feat-img">
+
 Often seen as "the second" blockchain network, or "Bitcoin's sibling", Ethereum is a decentralized and fully programable platform. 
 
 Ethereum was launched in 2015 by a team led by Vitalik Buterin, as an open-source alternative to Bitcoin. Its network is built over a sucession of non-hierarchical nodes that validate transactions according to a pre-established set of rules. This allows users to safely hold and trade ETH -its native cryptocurrency- with complete anonimity, as well as creating new tokens which inherit the inmutable characteristics of the network.

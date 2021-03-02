@@ -5,6 +5,8 @@ id: proof-of-humanity
 
 # Proof of Humanity
 
+<img src="consensus.svg" class="feat-img">
+
 Proof of humanity is a registry of tokenized identities subject to joint review, developed by Kleros.
 
 Profile requests are approved by members to verify that they are human, but may then be challenged by other members if there is any doubt about the profile's authenticity.
@@ -15,4 +17,4 @@ Whoever wants to challenge a user profile, will put a small portion of their ass
 
 This network of trust between non-duplicated and non-automated identities is the base of a transparent and democratic system. 
 
-In this sense, each user with a VOTE token may discuss the operation of a DAO or the frequency of issuance of $UBI
+In this sense, each user with a VOTE token may discuss the operation of a DAO or the frequency of issuance of $UBI.

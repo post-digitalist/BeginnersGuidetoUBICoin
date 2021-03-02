@@ -112,6 +112,16 @@ h3,
   font-size: 1.5rem;
   font-weight: normal;
 }
+/* FEATURED IMAGE */
+.feat-img{
+  display: block;
+  position: absolute;
+  max-height: 800px;
+  width: auto;
+bottom: 0px;
+  right: 0px;
+  z-index: -1;
+}
 /* FOOTER & CHILDREN */
 footer {
   font-size: 95%;
