@@ -40,8 +40,19 @@ GAS_API_KEY=your-key-here
 
 ## How to add a new page
 
-
-
+* Navigate to the `content` folder
+* Click on `add file > create new file`
+* Create a file with the tilte (NUMBER)(SOMETHING DESCRIPTIVE).md. For instance, if the last available file in the folder is titled 5HOWTOOBTAINUBI.md, title your document something like 6LIQUIDITYPOOLS.md 
+* Create the front matter with the following format:
+ ```---
+ title:
+ id:
+ ---
+ ```
+ The `id` will be your page's slug.
+ * Write the content in markdown
+ * Click on `Propose new file`
+ 
 ## Credits
 ### Fonts 
 [Panamera](https://noirblancrouge.com/fonts/panamera/#:~:text=Panamera%20is%20a%20modern%20sans%20serif%20font%20family.&text=Panamera%20font%20works%20well%20both,a%20wide%20range%20of%20projects.) 
