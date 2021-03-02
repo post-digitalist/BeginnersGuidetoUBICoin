@@ -14,9 +14,10 @@ We can overcome the restrictive costs of GAS in small Ethereum transactions -whi
 
 Until now, the lack of a reliable way of determine Sybill-proof identities restricted the use of the blockchain to a stake-based political system. Proof of Humanity is a radical change in the crypto ecosystem, and is the chosen method for governance implementation in the UBI Coin project
 
-The UBI Coin project consists of two ERC-20 tokens: 	
+The UBI Coin project consists of two ERC-20 tokens emmited by a DAO: 	
 - UBI Coin, which which acts like money (transferrable, storable, expendable)	
 - VOTE token, which acts like a voter ID and is given to individuals who verify their identity	
 
-UBI Coin has a stable minting rate per second, using UNIXtime as the standard clock, but the rate can be changed democratically through VOTE. The token also has a "Burn" function to balance $UBI's innate inflationary tendency. To avoid plutocratic tendences in the token governance, a quadratic voting system.	
-The tokens are given to every registered user through the Proof of Humanity protocol.
+UBI Coin has a stable minting rate per second, using UNIXtime as the standard clock, but the rate can be changed democratically through VOTE in the UBI DAO interface. The token also has a "Burn" function to balance $UBI's innate inflationary tendency. To avoid plutocratic tendences in the token governance, a quadratic voting system will be used. The tokens are given to every verified user through the Proof of Humanity protocol.
+
+The "1 person 1 vote" dream has become real in the Blockchain.	
