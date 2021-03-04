@@ -20,12 +20,12 @@ function MyApp({ Component, pageProps }) {
       switch (event.code) {
         case "ArrowLeft":
           if (prevId != undefined) {
-            window.location.href = `/${prevId}`;
+            window.location.href = `./${prevId}`;
           }
           break;
         case "ArrowRight":
           if (nextId && pageProps.currentId !== nextId) {
-            window.location.href = `/${nextId}`;
+            window.location.href = `./${nextId}`;
           }
           break;
 
