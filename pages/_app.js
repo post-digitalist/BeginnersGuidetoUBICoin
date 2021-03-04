@@ -16,7 +16,6 @@ function MyApp({ Component, pageProps }) {
     nextId = pageProps.nextSlide?.params?.id;
     prevId = pageProps.prevSlide?.params?.id;
 
-    console.log(prevId, nextId);
     const keyboardInteraction = (event) => {
       switch (event.code) {
         case "ArrowLeft":
@@ -38,9 +37,8 @@ function MyApp({ Component, pageProps }) {
       window.removeEventListener("keydown", keyboardInteraction);
     };
   });
-  
+
   return <Component {...pageProps} />;
 }
 
 export default MyApp;
-
