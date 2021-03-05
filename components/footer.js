@@ -13,7 +13,9 @@ const Footer = ({ links }) => {
           {socialMedia.map(({ display, href }, i) => (
             <React.Fragment key={i}>
               <li key={i}>
-                <Link href={href}>{display}</Link>
+                <Link target="_blank" href={href}>
+                  {display}
+                </Link>
               </li>
               {i < socialMedia.length - 1 && " / "}
             </React.Fragment>
