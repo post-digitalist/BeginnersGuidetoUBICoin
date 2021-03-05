@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Link from "next/link";
 import data from "../lib/social-media.yaml";
 
 const Footer = ({ links }) => {
@@ -12,7 +13,7 @@ const Footer = ({ links }) => {
           {socialMedia.map(({ display, href }, i) => (
             <React.Fragment key={i}>
               <li key={i}>
-                <a href={href}>{display}</a>
+                <Link href={href}>{display}</Link>
               </li>
               {i < socialMedia.length - 1 && " / "}
             </React.Fragment>
@@ -23,7 +24,7 @@ const Footer = ({ links }) => {
         {links &&
           links.map(({ title, id }, i) => (
             <li key={i}>
-              <a href={`/${id}`}>{title}</a>
+              <Link href={`/${id}`}>{title}</Link>
             </li>
           ))}
       </nav>

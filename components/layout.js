@@ -1,5 +1,7 @@
 import Head from "next/head";
 import Footer from "./footer";
+import Link from "next/link";
+import Image from "next/image";
 
 const Layout = ({ children, home, footerLinks }) => {
   return (
@@ -11,11 +13,11 @@ const Layout = ({ children, home, footerLinks }) => {
       </Head>
       <header>
         {!home ? (
-          <a href="/">
-            <img src="UBIlogo.png" className="logo" />
-          </a>
+          <Link href="/">
+            <Image src="UBIlogo.png" className="logo" />
+          </Link>
         ) : (
-          <img src="UBIlogo.png" className="logo" />
+          <Image src="UBIlogo.png" className="logo" />
         )}
       </header>
       <main>

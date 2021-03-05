@@ -1,14 +1,15 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const Arrow = ({ href }) => {
   return (
     <section className="arrow">
       {href ? (
         <Link href={href}>
-          <img src="arrow.png" />
+          <Image src="arrow.png" />
         </Link>
       ) : (
-        <img src="arrow.png" />
+        <Image src="arrow.png" />
       )}
     </section>
   );
