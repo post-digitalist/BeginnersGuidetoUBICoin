@@ -13,10 +13,10 @@ const Layout = ({ children, home, footerLinks }) => {
       <header>
         {!home ? (
           <Link href="/">
-            <img src="UBIlogo.png" className="logo" />
+            <img src="/UBIlogo.png" className="logo" />
           </Link>
         ) : (
-          <img src="UBIlogo.png" className="logo" />
+          <img src="/UBIlogo.png" className="logo" />
         )}
       </header>
       <main>
