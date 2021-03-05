@@ -1,10 +1,12 @@
+import Link from "next/link";
+
 const Arrow = ({ href }) => {
   return (
     <section className="arrow">
       {href ? (
-        <a href={href}>
+        <Link href={href}>
           <img src="arrow.png" />
-        </a>
+        </Link>
       ) : (
         <img src="arrow.png" />
       )}
