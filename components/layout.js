@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Footer from "./footer";
 import Link from "next/link";
-import Image from "next/image";
 
 const Layout = ({ children, home, footerLinks }) => {
   return (
@@ -14,10 +13,10 @@ const Layout = ({ children, home, footerLinks }) => {
       <header>
         {!home ? (
           <Link href="/">
-            <Image src="UBIlogo.png" className="logo" />
+            <img src="UBIlogo.png" className="logo" />
           </Link>
         ) : (
-          <Image src="UBIlogo.png" className="logo" />
+          <img src="UBIlogo.png" className="logo" />
         )}
       </header>
       <main>
