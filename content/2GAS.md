@@ -5,7 +5,7 @@ id: gas
 
 # The Problem of Gas 
 
-<img src="gas.svg" class="feat-img">
+<img src="/gas.svg" class="feat-img">
 
 Gas, or Gwei, is the unit that accounts for the amount of ETH that miners obtain as fees, when they validate and write a transaction into the blockchain. The sender can choose the amount of ETH they will pay as a comission, which will determine the speed of the transaction. The higher the fee, the faster the transaction. 
 
