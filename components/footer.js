@@ -11,24 +11,23 @@ const Footer = ({ links }) => {
         <p>UBIcoin</p>
         <ul>
           {socialMedia.map(({ display, href }, i) => (
-            <React.Fragment key={i}>
-              <li key={i}>
-                <Link target="_blank" href={href}>
-                  {display}
-                </Link>
-              </li>
-              {i < socialMedia.length - 1 && " / "}
-            </React.Fragment>
+            <li key={i}>
+              <Link target="_blank" href={href}>
+                {display}
+              </Link>
+            </li>
           ))}
         </ul>
       </div>
       <nav>
-        {links &&
-          links.map(({ title, id }, i) => (
-            <li key={i}>
-              <Link href={`/${id}`}>{title}</Link>
-            </li>
-          ))}
+        <ul>
+          {links &&
+            links.map(({ title, id }, i) => (
+              <li key={i}>
+                <Link href={`/${id}`}>{title}</Link>
+              </li>
+            ))}
+        </ul>
       </nav>
     </footer>
   );

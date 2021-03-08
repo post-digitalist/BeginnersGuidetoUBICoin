@@ -113,12 +113,12 @@ h3,
   font-weight: normal;
 }
 /* FEATURED IMAGE */
-.feat-img{
+.feat-img {
   display: block;
   position: absolute;
   max-height: 800px;
   width: auto;
-bottom: 0px;
+  bottom: 0px;
   right: 0px;
   z-index: -1;
 }
@@ -140,6 +140,7 @@ footer a:hover {
 }
 nav li {
   list-style-type: decimal;
+  margin-left: 1em;
 }
 .footer-vertical-flex {
   display: flex;
@@ -149,6 +150,13 @@ nav li {
 .footer-vertical-flex li {
   list-style: none;
   display: inline-block;
+}
+.footer-vertical-flex li:after {
+  content: " / ";
+  margin-right: 0.3rem;
+}
+.footer-vertical-flex li:last-child:after {
+  content: "";
 }
 
 /* WHEN IN LARGE SCREENS */
