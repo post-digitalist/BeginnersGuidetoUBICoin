@@ -9,6 +9,11 @@ const Layout = ({ children, home, footerLinks }) => {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+          name="description"
+          content="Ethereum gas fees are one of the greatest obstacles to massive adoption. That ends today. Let us explain..."
+        />
+
         <html lang="en"></html>
         <title>UBIcoin</title>
       </Head>
