@@ -5,7 +5,7 @@ id: ethereum
 
 # What's Ethereum?
 
-<img src="/ethereum.svg" class="feat-img">
+<img src="/ethereum.svg" alt="Featured image" class="feat-img">
 
 Often seen as "the second" blockchain network, or "Bitcoin's sibling", Ethereum is a decentralized and fully programable platform. 
 
