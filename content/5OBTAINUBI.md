@@ -5,7 +5,7 @@ id: How-to-obtain-$UBI
 
 # How to obtain $UBI
 
-<img src="consensus.svg" class="feat-img">
+<img src="/consensus.svg" alt="Abstract illustration" class="feat-img">
 
 Once the project is launched on the Ethereum Main Network, those who want to receive $UBI will have to register on [the Proof of Humanity website](https://proofofhumanity.xyz/).
 
