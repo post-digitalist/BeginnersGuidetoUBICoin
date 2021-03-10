@@ -55,8 +55,9 @@ GAS_API_KEY=your-key-here
 ## Credits
 
 ### Fonts 
-[Panamera](https://noirblancrouge.com/fonts/panamera/#:~:text=Panamera%20is%20a%20modern%20sans%20serif%20font%20family.&text=Panamera%20font%20works%20well%20both,a%20wide%20range%20of%20projects.) 
 
-[Inter](https://github.com/rsms/inter)
+- [Panamera](https://noirblancrouge.com/fonts/panamera/#:~:text=Panamera%20is%20a%20modern%20sans%20serif%20font%20family.&text=Panamera%20font%20works%20well%20both,a%20wide%20range%20of%20projects.) 
+
+- [Inter](https://github.com/rsms/inter)
 
 
