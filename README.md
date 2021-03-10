@@ -15,6 +15,7 @@ We invite you to propose changes and add new pages as you see fit. Our goal for 
 -------
 
 ## Repos you'll want to check out
+
 [$UBI](https://github.com/DemocracyEarth/ubi)
 [Proof of Humanity contract](https://github.com/Proof-Of-Humanity/Proof-Of-Humanity)
 [Proof of Humanity website](https://github.com/Proof-Of-Humanity/proof-of-humanity-web)
