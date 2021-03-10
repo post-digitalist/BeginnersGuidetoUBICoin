@@ -8,19 +8,16 @@
 $UBI's mission is to make Ethereum accessible again. For everyone. 
 But mass adoption is impossible without education. To advance $UBI's goal, we created a guide into Ethereum for the absolute beginner. Find it on [human.money](human.money).
 
-We invite you to propose changes and add new pages, as you desire. Our goal with this project was to create the foundation for a collaborative project beyond ourselves.
-So your pull requests are very welcome.
+Built in collaboration with [Democracy Earth](http://democracy.earth), [Kleros](https://github.com/kleros) and the [Proof of Humanity project](https://github.com/Proof-Of-Humanity).
 
-## Index
-- [X] 0. What's Ethereum?
-- [X] 1. How Does the Ethereum Network Work?
-- [X] 2. The Problem of Gas
-- [X] 3. What's $UBI?
-- [X] 4. Proof of Humanity
-- [X] 5. How to Receive UBIcoins
+We invite you to propose changes and add new pages as you see fit. Our goal for this project was to create the foundation for a collaborative effort beyond ourselves, so your pull requests are very welcome.
 
-- [ ] Glossary
+-------
 
+## Repos you'll want to check out
+[$UBI](https://github.com/DemocracyEarth/ubi)
+[Proof of Humanity contract](https://github.com/Proof-Of-Humanity/Proof-Of-Humanity)
+[Proof of Humanity website](https://github.com/Proof-Of-Humanity/proof-of-humanity-web)
 -------
 
 ## How to run
@@ -53,8 +50,9 @@ GAS_API_KEY=your-key-here
  The `id` will be your page's slug.
  * Write the content in markdown
  * Click on `Propose new file`
- 
+
 ## Credits
+
 ### Fonts 
 [Panamera](https://noirblancrouge.com/fonts/panamera/#:~:text=Panamera%20is%20a%20modern%20sans%20serif%20font%20family.&text=Panamera%20font%20works%20well%20both,a%20wide%20range%20of%20projects.) 
 
