@@ -12,7 +12,6 @@ Built in collaboration with [Democracy Earth](http://democracy.earth), [Kleros](
 
 We invite you to propose changes and add new pages as you see fit. Our goal for this project was to create the foundation for a collaborative effort beyond ourselves, so your pull requests are very welcome.
 
--------
 
 ## Repos you'll want to check out
 
@@ -20,7 +19,7 @@ We invite you to propose changes and add new pages as you see fit. Our goal for 
 - [Proof of Humanity contract](https://github.com/Proof-Of-Humanity/Proof-Of-Humanity)
 - [Proof of Humanity website](https://github.com/Proof-Of-Humanity/proof-of-humanity-web)
 
--------
+
 
 ## How to run
 
@@ -35,7 +34,7 @@ GAS_API_KEY=your-key-here
 
 * Run with `yarn dev`
 
--------
+
 
 ## How to add a new page
 
