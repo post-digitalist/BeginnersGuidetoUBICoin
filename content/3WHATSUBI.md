@@ -26,6 +26,6 @@ The "1 person 1 vote" dream has become real in the Blockchain.
 
 ## Further Reading
 
-About governance: https://www.dropbox.com/s/f5zzofunx186dcu/The%20Social%20Smart%20Contract.pdf?dl=0
+- [Learn more about governance](https://www.dropbox.com/s/f5zzofunx186dcu/The%20Social%20Smart%20Contract.pdf?dl=0)
 
-About identity: https://arxiv.org/ftp/arxiv/papers/2008/2008.05300.pdf
+- [Learn more about identity](https://arxiv.org/ftp/arxiv/papers/2008/2008.05300.pdf)
