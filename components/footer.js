@@ -12,9 +12,9 @@ const Footer = ({ links }) => {
         <ul>
           {socialMedia.map(({ display, href }, i) => (
             <li key={i}>
-              <Link target="_blank" href={href}>
+              <a target="_blank" href={href}>
                 {display}
-              </Link>
+              </a>
             </li>
           ))}
         </ul>
