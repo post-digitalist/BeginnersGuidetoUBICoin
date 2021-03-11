@@ -5,7 +5,7 @@ id: proof-of-humanity
 
 # Proof of Humanity
 
-<img src="/consensus.svg" alt="Featured image" class="feat-img">
+<img src="/human.svg" alt="Featured image" class="feat-img">
 
 Proof of humanity is a registry of tokenized identities subject to joint review, developed by Kleros.
 
