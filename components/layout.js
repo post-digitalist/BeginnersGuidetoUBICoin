@@ -15,7 +15,7 @@ const Layout = ({ children, home, footerLinks }) => {
         />
 
         <html lang="en"></html>
-        <title>UBIcoin</title>
+        <title> A Beginner's Guide to $ETH & $UBI </title>
       </Head>
       <header>{!home ? <Link href="/">{logo}</Link> : logo}</header>
       <main>
