@@ -7,7 +7,7 @@ id: How-to-obtain-$UBI
 
 <img src="/consensus.svg" class="feat-img">
 
-Once the project is launched on the Ethereum Main Network, those who want to receive $UBI will have to register on [the Proof of Humanity website](https://proofofhumanity.xyz/).
+Once the project is launched on the Ethereum Main Network, those who want to receive $UBI will have to register on [the Proof of Humanity website](https://proofofhumanity.id/).
 
 Signing up is easy:
 
@@ -15,3 +15,5 @@ Signing up is easy:
 - Send a photo and a video to prove your identity
 
 Once the registration is verified, your wallet will automatically get a unique VOTE token and start receiving $UBI.
+
+You can also obtain $UBI through [Uniswap](https://info.uniswap.org/token/0xdd1ad9a21ce722c151a836373babe42c868ce9a4).
