@@ -34,8 +34,7 @@ export default function Home({ slide, slideLinks }) {
       <Layout home footerLinks={slideLinks}>
         <section className="content wide-content">
           <h1>
-            A Beginner's Guide to How $UBI Makes Ethereum Transactions
-            Accessible for Everyone
+          An Ethereum-Based UBI Protocol for the Benefit of All Humanity
           </h1>
         </section>
         <Arrow href={`/${id}`} />

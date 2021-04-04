@@ -1,16 +1,14 @@
 <p align="Center">
 <img src="public/UBIlogo2.png"  width="150">
 </p>
-  <p align="center"><i>The price of GAS is too damn high</i></p>
+  <p align="center"><i>The government wasn't going to do it.</i></p>
 
-# A Beginner’s Guide to how $UBI makes Ethereum transactions accesible for everyone.
+# A Beginner’s Guide to how $UBI 
 
-$UBI's mission is to make Ethereum accessible again. For everyone. 
-But mass adoption is impossible without education. To advance $UBI's goal, we created a guide into Ethereum for the absolute beginner. Find it on [human.money](human.money).
+*$UBI* is an Ethereum-based Universal Basic Income solution, for the benefit of all humanity.
+This guide aims to introduce newcomers to both $ETH and $UBI.
 
 Built in collaboration with [Democracy Earth](http://democracy.earth), [Kleros](https://github.com/kleros) and the [Proof of Humanity project](https://github.com/Proof-Of-Humanity).
-
-We invite you to propose changes and add new pages as you see fit. Our goal for this project was to create the foundation for a collaborative effort beyond ourselves, so your pull requests are very welcome.
 
 
 ## Repos you'll want to check out
@@ -19,8 +17,10 @@ We invite you to propose changes and add new pages as you see fit. Our goal for 
 - [Proof of Humanity contract](https://github.com/Proof-Of-Humanity/Proof-Of-Humanity)
 - [Proof of Humanity website](https://github.com/Proof-Of-Humanity/proof-of-humanity-web)
 
-
-
+## Learn more
+- [Proof of Humanity](http://proofofhumanity.id/)
+- [Proof of Humanity Forums](https://gov.proofofhumanity.id/)
+- 
 ## How to run
 
 * Clone this repo
